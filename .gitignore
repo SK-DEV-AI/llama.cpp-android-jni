@@ -1,0 +1,21 @@
+# Build outputs
+build/
+.cxx/
+*.apk
+*.so
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Gradle
+.gradle/
+local.properties
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
